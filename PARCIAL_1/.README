@@ -1,1 +1,45 @@
+# README - Parcial 1: Señales y Sistemas 2025-I  
+**Nombre completo:** Rafael Ricardo Torres Choperena  
+**Profesor:** Andrés Marino Álvarez Meza, Ph.D.  
+**Fecha de entrega:** 16 de mayo de 2025  
+
+---
+
+## ¿Qué se hace en este parcial?
+
+Se resuelven 4 ejercicios sobre señales analógicas, discretas, cálculo de distancia media y serie de Fourier. Cada uno se desarrolla con teoría, código en Python y gráficas.
+
+---
+
+### 1. Señal para microprocesador
+
+Se ajusta una señal analógica al rango permitido por un microprocesador de 5 bits (entre -3.3V y 5V), se digitaliza y se simulan dos periodos en Python.
+
+---
+
+### 2. Señal digital y muestreo
+
+Se muestrea una señal a 5 kHz y se analiza si la frecuencia es suficiente. Si hay aliasing, se propone un nuevo diseño y se simula todo el proceso.
+
+---
+
+### 3. Distancia entre señales
+
+Se calcula la distancia media entre dos señales con base en la potencia media. Se justifica el desarrollo con Sympy y se comparan resultados.
+
+---
+
+### 4. Serie de Fourier
+
+Se obtiene la serie de Fourier de la segunda derivada de una señal. Se calculan coeficientes, se analiza el espectro y se compara con lo simulado en Python.
+
+---
+
+## Archivos incluidos
+
+- Cuaderno Jupyter con el desarrollo completo.  
+- PDF con los cálculos teóricos hechos a mano.  
+- Archivos bien comentados y organizados.
+
+---
 
